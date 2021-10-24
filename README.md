@@ -1,5 +1,5 @@
 # DLADA
-A deep-learning accelerated data assimilation workflow
+A Deep-Learning Accelerated Data Assimilation Workflow
 
 The repo presents a history matching and prediction workflow based on Ensemble Smoother Multiple Data Assimilation (ES-MDA). Deep learning based surrogate models are built to accelerate the workflow. Details can be found in the paper: 
 
